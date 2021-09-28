@@ -17,6 +17,7 @@
 + Azure Service
 
 ## 【架構圖】
-<img align='center' src='https://raw.githubusercontent.com/pondada/Azure_Course_project/main/readme/Data_Flow.jpg' width='500"'>
+<img align='center' src='https://github.com/pondada/Azure_Course_project/blob/main/readme/Data_Flow.jpg' width='500"'>
 
 ## 【成果】
+<img align='center' src='https://github.com/pondada/Azure_Course_project/blob/main/readme/Demo.gif' width='800"'>
