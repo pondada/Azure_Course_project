@@ -17,6 +17,6 @@
 + Azure Service
 
 ## 【架構圖】
-
+<img align='center' src='https://raw.githubusercontent.com/pondada/Azure_Course_project/main/readme/Data_Flow.jpg?token=ARLEYJVK6772Z43QYWGASPDBKOK6A' width='500"'>
 
 ## 【成果】
