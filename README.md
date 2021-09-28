@@ -1,4 +1,4 @@
-# Azure_Course_project
+# Azure_Course_project 看圖說故事
 
 ## 【簡介】
 + 使用者可將表情照片上傳給 Line Bot 中，Line Bot 將會透過 Azure 表情認知服務辨識該照片的心情，並依照辨識的心情推薦使用者一首歌曲或詩詞
