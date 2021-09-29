@@ -4,8 +4,8 @@
 + 使用者可將表情照片上傳給 Line Bot 中，Line Bot 將會透過 Azure 表情認知服務辨識該照片的心情，並依照辨識的心情推薦使用者一首歌曲或詩詞
 
 ## 【主要負責項目】
-+ Flask 架設 Line Bot 伺服器
-+ Imgur API 
++ Flask 架設 Line Bot 伺服器 (app.py)
++ Imgur API (imgur_upload.py)
 + 歌曲、詩詞的資料收集與整理
 
 ## 【使用工具】
